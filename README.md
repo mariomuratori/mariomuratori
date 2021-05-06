@@ -1,10 +1,3 @@
-- 👋 Hi there! I’m Mario Muratori
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋  Hi there! I’m Mario Muratori
 
-<!---
-mariomuratori/mariomuratori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/mariomuratori/mariomuratori/main/banner.png" alt="banner that says UX/UI designer, fronted developer and creative">
